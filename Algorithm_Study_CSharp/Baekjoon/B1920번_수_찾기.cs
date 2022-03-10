@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Algorithm_Study_CSharp.Baekjoon
 {
-    class B1920번_수찾기
+    class B1920번_수_찾기
     {
         static void Main(string[] args)
         {
